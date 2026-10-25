@@ -1,5 +1,5 @@
 public class HelloJenkins {
     public static void main(String[] args) {
-        System.out.print("Hello, Jenkins!");
+        System.out.print("Hello, Jenkins CI!");
     }
 }
