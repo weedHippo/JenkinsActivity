@@ -1,0 +1,10 @@
+# Default ignored files
+/../../JenkinsActivity./.idea/shelf/
+/../../JenkinsActivity./.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../JenkinsActivity./.idea/httpRequests/
+# Ignored default folder with query files
+/../../JenkinsActivity./.idea/queries/
+# Datasource local storage ignored files
+/../../JenkinsActivity./.idea/dataSources/
+/../../JenkinsActivity./.idea/dataSources.local.xml
